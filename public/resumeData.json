@@ -1,163 +1,150 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Alin Sofianu",
+    "occupation": "Front End Software Developer",
+    "description": "Aimed to offer user-friendly experiences with a Web Environment found in a rapid change. The Web can be tricky to understand, so I want my colleagues and customers to benefit from it's full potential",
+    "image": "profile-pic.png",
+    "bio": "I am an tinkerer at heart, with an entrepreneurial spirit, a knack for a healthy lifestyle, and a passion for coding. Self-motivated as being shown by the fact that I work in Software Development after attending a Marketing - Economic Studies college. Continuous Education, I enjoy training/learning new things, considering that the more you know the more value what your already know has. I am an even tempered person, never engaging in negative thinking.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "alin.sofianu@gmail.com",
+    "phone": "(+40) 0785 552 748",
+    "address": {
+      "street": "Tudor Vladimirescu",
+      "city": "Drăgășani",
+      "state": "Romania",
+      "zip": "245700"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "twitter",
+        "url": "http://google.com",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "google-plus",
+        "url": "http://google.com",
+        "className": "fa fa-google-plus"
+      },
+
+      {
+        "name": "instagram",
+        "url": "http://google.com",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name": "github",
+        "url": "http://google.com",
+        "className": "fa fa-github"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "http://google.com",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Development knowledge, including HTML5/CSS3, Javascript(ES6), ReactJS, Redux, Material-UI, GatsbyJS, Contentful CMS, GraphQL, Git, GitHub, GitLab.",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Academy of Economic Studies Bucharest",
+        "degree": "College / Bachelor's degree",
+        "description": "After the admission exam I recived a performance scholarship. During my time in college, I studied economics and marketing, while running a small business in farming and selling pet fishes and aquariums. Also, I wrote english articles on various topics for www.afladespre.ro."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "High School - National College Gib Mihăescu",
+        "degree": "Programming / Mathematics",
+        "description": " I obtained a Certificate on Computer Software, after an examination held in Creating Computer Software, Systems Databases Management and Operating Systems. Finished high-school with a 9,78/10 score at the Baccalaureate exam."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Freelancer",
+        "title": "Front-end Freelancer ",
+        "years": " - at present",
+        "description": "I freelance on www.upwork.com"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Ferzy",
+        "title": "Front-end developer ",
+        "years": "Aug 2016 - Ian 2018",
+        "description": "After I learnt enough ReactJS in order to start applying my knowledge to a real project I started working as a front-end developer on ferzy.com (a SEO tool used for analyzing keyword difficulty). While working on this project I've become accustomed with a lot more tools and technologies used in a modern web application like: npm, Babel, Webpack, Redux, redux-saga, as well as the Google Material Design guidelines."
+      },
+      {
+        "company": "Self Employed",
+        "title": "Study/Personal projects ",
+        "years": "Feb 2016 - Jun 2016",
+        "description": "At this point I have decided to take some time off to focus on studying pure JavaScript in depth in order to become a full time front-end engineer. After getting the hang of JavaScript I decided on ReactJS as my framework of choice, and started building small projects on my own, with ReactJS and other Front End/React ecosystem technologies."
+      },
+      {
+        "company": "EveryMatrix - Bucharest",
+        "title": "Junior Developer/Bug fixer ",
+        "years": "Jan 2015 - Feb 2016",
+        "description": "The company's activity revolves around iGaming industry, offering various services on sporting bets, online casinos and payments management. These services include building and maintaining websites, sporting odds with bet settlement and implementing new features for the online casino customers. During my time with EveryMatrix, I have attended and graduated the EM Front - End Academy, with courses on HTML5/CSS3, Photoshop and basic JavaScript. As a junior developer and as a level 3 Customer support I was working very closely with both departments, identifying and fixing bugs on our websites."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "CSS3",
+        "level": "80%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "HTML5",
+        "level": "80%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "JavaScript",
+        "level": "65%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "ReactJs",
+        "level": "75%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "GatsbyJS",
+        "level": "70%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name": "Contentful CMS / GraphQL",
+        "level": "70%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "Git / GitHub / GitLab",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Ferzy",
+        "category": "SEO tool for analyzing keywords.",
+        "image": "ferzy.png",
+        "url": "http://ferzy.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Auto Club Reviews",
+        "category": "Blog like app with a cloud CMS.",
+        "image": "auto-club-reviews.png",
+        "url": "http://autoclub.reviews"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "The boss everybody desires and every boss wants to be!",
+        "user": "Valentin-Costel Hăloiu"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "The boss I have always dreamed of!",
+        "user": "Valentin-Costel Hăloiu"
+      },
+      {
+        "text": "Now that Alin Sofianu is my boss, I have never felt happier!",
+        "user": "Valentin-Costel Hăloiu"
       }
     ]
   }
