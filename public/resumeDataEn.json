@@ -1,7 +1,15 @@
 {
   "main": {
+    "navButtons": {
+      "home": "home",
+      "about": "about",
+      "resume": "resume",
+      "works": "work",
+      "testimonials": "testimonials",
+      "contact": "contact"
+    },
     "iAm": "I'm",
-    "shortDescription": "I'm a Drăgășani based Front End Software Developer",
+    "shortDescription": "I'm a Romania / Drăgășani based Front End Software Developer",
     "name": "Alin Sofianu",
     "occupation": "Front End Software Developer",
     "description": "Aimed to offer user-friendly experiences with a Web Environment found in a rapid change. The Web can be tricky to understand, so I want my colleagues and customers to benefit from it's full potential",

@@ -3,14 +3,20 @@ import Languages from "./Languages";
 
 class Header extends Component {
   render() {
-    var lang = this.props.lang;
     if (this.props.data) {
+      var lang = this.props.lang;
       var iAm = this.props.data.iAm;
       var shortDescription = this.props.data.shortDescription;
       var name = this.props.data.name;
       //var occupation = this.props.data.occupation;
       var description = this.props.data.description;
       //var city = this.props.data.address.city;
+      var home = this.props.data.navButtons.home;
+      var about = this.props.data.navButtons.about;
+      var resume = this.props.data.navButtons.resume;
+      var works = this.props.data.navButtons.works;
+      var testimonials = this.props.data.navButtons.testimonials;
+      var contact = this.props.data.navButtons.contact;
       var networks = this.props.data.social.map(function(network) {
         return (
           <li key={network.name}>
@@ -34,32 +40,32 @@ class Header extends Component {
           <ul id="nav" className="nav">
             <li className="current">
               <a className="smoothscroll" href="#home">
-                Home
+                {home}
               </a>
             </li>
             <li>
               <a className="smoothscroll" href="#about">
-                About
+                {about}
               </a>
             </li>
             <li>
               <a className="smoothscroll" href="#resume">
-                Resume
+                {resume}
               </a>
             </li>
             <li>
               <a className="smoothscroll" href="#portfolio">
-                Works
+                {works}
               </a>
             </li>
             <li>
               <a className="smoothscroll" href="#testimonials">
-                Testimonials
+                {testimonials}
               </a>
             </li>
             <li>
               <a className="smoothscroll" href="#contact">
-                Contact
+                {contact}
               </a>
             </li>
             <li className="current">

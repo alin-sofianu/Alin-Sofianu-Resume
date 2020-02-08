@@ -1,7 +1,15 @@
 {
   "main": {
+    "navButtons": {
+      "home": "acasa",
+      "about": "despre",
+      "resume": "CV",
+      "works": "experienta",
+      "testimonials": "testimoniale",
+      "contact": "contact"
+    },
     "iAm": "Sunt",
-    "shortDescription": "Front End Software Developer, locat in Drăgășani",
+    "shortDescription": "Front End Software Developer, locat in Vâlcea",
     "name": "Alin Sofianu",
     "occupation": "Front End Software Developer",
     "description": "Ținta mea este sa ofer experiențe facile cu un Mediu Web aflat într-o continuă schimbare. Web-ul poate fi dificil de înțeles, așadar îmi doresc ca si colegii și clienții mei să beneficieze de potențialul sau maxim",

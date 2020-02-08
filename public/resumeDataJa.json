@@ -1,8 +1,16 @@
 {
   "main": {
+    "navButtons": {
+      "home": "ホーム",
+      "about": "約",
+      "resume": "履歴書",
+      "works": "作業",
+      "testimonials": "推薦状",
+      "contact": "連絡先"
+    },
     "iAm": "私は",
-    "shortDescription": "私はDrăgășaniベースのフロントエンドソフトウェア開発者です",
-    "name": "Alin Sofianu",
+    "shortDescription": "私はルーマニアを拠点とするフロントエンドソフトウェア開発者です",
+    "name": "アリン ソフィアニュ",
     "occupation": "フロントエンドソフトウェア開発者",
     "description": "急速な変化に見られるWeb環境で、ユーザーフレンドリーなエクスペリエンスを提供することを目指しています。 Webは理解するのが難しい場合があるので、同僚や顧客にその潜在能力を最大限に活用してもらいたい",
     "image": "profile-pic.png",
@@ -137,7 +145,7 @@
     ]
   },
   "portfolio": {
-    "portfolioMessage": "Check out my works",
+    "portfolioMessage": "私の作品をご覧ください",
     "projects": [
       {
         "title": "Ferzy",
