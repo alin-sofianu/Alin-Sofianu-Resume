@@ -12,12 +12,12 @@
     "shortDescription": "Front End Software Developer, locat in Vâlcea",
     "name": "Alin Sofianu",
     "occupation": "Front End Software Developer",
-    "description": "Ținta mea este sa ofer experiențe facile cu un Mediu Web aflat într-o continuă schimbare. Web-ul poate fi dificil de înțeles, așadar îmi doresc ca si colegii și clienții mei să beneficieze de potențialul sau maxim",
+    "description": "Ținta mea este să ofer experiențe facile cu un Mediu Web aflat într-o continuă schimbare. Web-ul poate fi dificil de înțeles, așadar îmi doresc ca și clienții mei să beneficieze de potențialul său maxim",
     "image": "profile-pic.png",
     "aboutMe": "Despre mine",
     "contactDetails": "Detalii de contact",
-    "bio": "Sunt un reparator, cu un spirit antreprenorial, o inclinație spre sport si o viață sănătoasă și o pasiune pentru cod. Auto motivat, demonstrat de faptul că activez în Software Development, după ce am urmat un studii de Marketing. Imi place să invăt lucruri noi, să experimentez cu tehnologii de ultimă oră si sunt ferm convins că cu cât știi mai mult, cu atât mai mult valorează ceea ce știi deja. Sunt o persoană temperată, gândesc intotdeauna pozitiv.",
-    "contactmessage": "Ai un proiect pentru mine? Crezi că mă integrez in echipa ta? Trimite-mi un e-mail sau completează formularul de mai jos, sau mă poti contacta telefonic.",
+    "bio": "Sunt un reparator, cu un spirit antreprenorial, o inclinație spre sport și o viață sănătoasă și o pasiune pentru cod. Auto motivat, demonstrat de faptul că activez în Software Development, după ce am urmat studii de Marketing. Imi place să invăț lucruri noi, să experimentez cu tehnologii de ultimă oră si consider că ceea ce știi deja valorează cu atât mai mult, cu atât inveți in continuare. Sunt o persoană temperată și gândesc intotdeauna pozitiv.",
+    "contactmessage": "Ai un proiect la care vrei să colaborăm? Trimite-mi un email sau completează formularul de mai jos, sau mă poți contacta telefonic.",
     "email": "alin.sofianu@gmail.com",
     "phone": "(+40) 0785 552 748",
     "address": {
@@ -62,17 +62,17 @@
     "workTitle": "Experienta",
     "skillTitle": "Tehnologii",
     "educationTitle": "Educatie",
-    "skillmessage": "Tehnologii Software Development, incluzand HTML5/CSS3, Javascript(ES6), ReactJS, Redux, Material-UI, GatsbyJS, Contentful CMS, GraphQL, Netlify, Heroku, Git, GitHub, GitLab.",
+    "skillmessage": "Tehnologii Software Development, incluzând HTML5/CSS3, Javascript(ES6), ReactJS, Redux, Material-UI, GatsbyJS, Contentful CMS, GraphQL, Netlify, Heroku, Git, GitHub, GitLab.",
     "education": [
       {
         "school": "Academia de Studii Economice Bucuresti",
         "degree": "Facultate",
-        "description": "După examenul de admitere am primit o bursă de performanță. În timpul meu la facultate, am studiat științe economice și marketing, în timp ce conduceam o mică afacere în crestere și vânzare de pești de companie și acvarii. De asemenea, am scris articole în limba engleză pe diverse subiecte pentru www.afladespre.ro."
+        "description": "După examenul de admitere am primit o bursă de studiu. În timpul meu la facultate, am studiat științe economice și marketing, în timp ce aveam o mică afacere în creșterea și vânzarea de pești de acvariu și acvarii. De asemenea, am scris articole în limba engleză pe diverse subiecte pentru www.afladespre.ro."
       },
       {
         "school": "Liceu - Colegiul National Gib Mihăescu",
         "degree": "Informatică / Matematică",
-        "description": " Am obținut un certificat de Software de calculator, după o examinare susținută în Crearea de programe informatice, Sisteme pentru gestionarea Bazelor de Bate și Sisteme de Operare. Am terminat liceul cu un nota 9,78 la examenul de bacalaureat."
+        "description": " Am obținut un certificat de Software de calculator, după o examinare susținută în Crearea de programe informatice, Sisteme pentru gestionarea Bazelor de Bate și Sisteme de Operare. Am absolvit cu 9,78 la examenul de bacalaureat."
       }
     ],
     "work": [
@@ -86,19 +86,19 @@
         "company": "Ferzy",
         "title": "Front-end developer ",
         "years": "Aug 2016 - Ian 2018",
-        "description": "După ce am deprins suficient ReactJS pentru a începe să-mi aplic cunoștințele la un proiect real, am început să lucrez ca dezvoltator front-end la ferzy.com (un instrument SEO utilizat pentru analiza dificultății de keyword-uri). În timp ce am lucrat la acest proiect, am invatat mai multe instrumente și tehnologii utilizate într-o aplicație web modernă, cum ar fi: npm, Babel, Webpack, Redux, redux-saga, precum și Google Material Design."
+        "description": "După ce am deprins suficient ReactJS pentru a începe să-mi aplic cunoștințele la un proiect real, am început să lucrez ca dezvoltator front-end la ferzy.com (un instrument SEO utilizat pentru analiza dificultății de keyword-uri). În timp ce am lucrat la acest proiect, am invățat sa lucrez cu diferite tool-uri și tehnologii utilizate într-o aplicație web modernă, cum ar fi: npm, Babel, Webpack, Redux, precum și Google Material Design."
       },
       {
         "company": "Independent",
         "title": "Studiu/Proiecte personale ",
         "years": "Feb 2016 - Jun 2016",
-        "description": "În acest moment am decis să mă concentrez asupra JavaScript-ului în profunzime. Apoi, m-am decis asupra ReactJS ca si framework și am început să construiesc mici proiecte, cu ReactJS și alte tehnologii Front End."
+        "description": "În acest moment am decis să mă concentrez asupra JavaScript-ului în profunzime. Apoi, m-am decis asupra ReactJS ca și framework și am început să construiesc mici proiecte, cu ReactJS și alte tehnologii Front End."
       },
       {
         "company": "EveryMatrix - Bucuresti",
         "title": "Junior Developer/Bug fixer ",
         "years": "Jan 2015 - Feb 2016",
-        "description": "Activitatea companiei se învârte în jurul industriei iGaming, oferind diverse servicii de pariuri sportive, cazinouri online și gestionare de plăți. Aceste servicii includ construirea și întreținerea site-urilor web, cote sportive si soluționarea pariurilor, și implementarea de noi funcții pentru clienții cazinourilor online. În timpul meu cu EveryMatrix, am participat și am absolvit Academia EM Front-End, cu cursuri pe HTML5 / CSS3, Photoshop și Vanilla JavaScript. Ca dezvoltator junior și ca asistent tehnic de nivel 3, am colaborat cu ambele departamente, identificând și reparând erori pe site-urile noastre."
+        "description": "Activitatea companiei se învârte în jurul industriei iGaming, oferind diverse servicii de pariuri sportive, cazinouri online și gestionare de plăți. Aceste servicii includ construirea și întreținerea site-urilor web, cote sportive și soluționarea pariurilor, și implementarea de noi funcții pentru clienții cazinourilor online. În timpul meu cu EveryMatrix, am participat și absolvit Academia EM Front-End, cu cursuri pe HTML5 / CSS3, Photoshop și Vanilla JavaScript. Ca dezvoltator junior și asistent tehnic nivel 3, am colaborat cu ambele departamente, identificând și reparând bug-uri pe site-urile noastre."
       }
     ],
     "skills": [
