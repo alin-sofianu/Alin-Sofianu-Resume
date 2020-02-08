@@ -1,0 +1,172 @@
+{
+  "main": {
+    "iAm": "私は",
+    "shortDescription": "私はDrăgășaniベースのフロントエンドソフトウェア開発者です",
+    "name": "Alin Sofianu",
+    "occupation": "フロントエンドソフトウェア開発者",
+    "description": "急速な変化に見られるWeb環境で、ユーザーフレンドリーなエクスペリエンスを提供することを目指しています。 Webは理解するのが難しい場合があるので、同僚や顧客にその潜在能力を最大限に活用してもらいたい",
+    "image": "profile-pic.png",
+    "aboutMe": "私について",
+    "contactDetails": "連絡先の詳細",
+    "bio": "私は、起業家精神、健康的な生活のためのコツ、コーディングへの情熱を持って、心の細工をしています。 私は、マーケティング-経済学部に通った後、ソフトウェア開発で働いているという事実に示されているように自発的に動機付けられています。 継続教育、私はあなたが既に知っているものがより多くの価値を知っているほど、新しいものを訓練/学習することを楽しんでいます。 私は冷静な人で、決してネガティブな思考をしません。",
+    "contactmessage": "私のためのプロジェクトがありますか？ 私はあなたのチームにぴったりだと思いますか？ ご連絡をお待ちしておりますので、お電話、メール、または下記のフォームを使用してご連絡ください。",
+    "email": "alin.sofianu@gmail.com",
+    "phone": "(+40) 0785 552 748",
+    "address": {
+      "street": "Tudor Vladimirescu",
+      "city": "Drăgășani",
+      "state": "Romania",
+      "zip": "245700"
+    },
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://google.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://google.com",
+        "className": "fa fa-google-plus"
+      },
+
+      {
+        "name": "instagram",
+        "url": "http://google.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://google.com",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://google.com",
+        "className": "fa fa-skype"
+      }
+    ],
+    "addressAndphone": "住所と電話情報"
+  },
+  "resume": {
+    "workTitle": "作業",
+    "skillTitle": "スキル",
+    "educationTitle": "教育",
+    "skillmessage": "HTML5 / CSS3、Javascript（ES6）、ReactJS、Redux、Material-UI、GatsbyJS、Contentful CMS、GraphQL、Netlify、Heroku、Git、GitHub、GitLabなどの開発知識。",
+    "education": [
+      {
+        "school": "経済学アカデミーブカレスト",
+        "degree": "カレッジ",
+        "description": "入学試験の後、パフォーマンス奨学金を受け取りました。 大学時代、経済学とマーケティングを学び、小規模ビジネスで農業を営み、ペットの魚や水槽を販売していました。 また、www.afladespre.roのさまざまなトピックに関する英語の記事を書きました。"
+      },
+      {
+        "school": "高校-ナショナルカレッジギブミヘエスク",
+        "degree": "プログラミング/数学",
+        "description": "コンピューターソフトウェアの作成、システムデータベース管理、およびオペレーティングシステムで行われた試験の後、コンピューターソフトウェアの証明書を取得しました。 バカロレア試験で9,78 / 10のスコアで高校を卒業。"
+      }
+    ],
+    "work": [
+      {
+        "company": "フリーランサー",
+        "title": "フロントエンドフリーランサー ",
+        "years": " - 現在のところ",
+        "description": "www.upwork.comでフリーランス"
+      },
+      {
+        "company": "Ferzy",
+        "title": "フロントエンドの開発者 ",
+        "years": "2016年8月-イアン2018",
+        "description": "自分の知識を実際のプロジェクトに適用するために十分なReactJSを学んだ後、ferzy.com（キーワードの難易度の分析に使用されるSEOツール）でフロントエンド開発者として働き始めました。 このプロジェクトに取り組んでいる間、npm、Babel、Webpack、Redux、redux-sagaなどの最新のWebアプリケーションで使用される多くのツールとテクノロジー、およびGoogle Material Designのガイドラインに慣れてきました。"
+      },
+      {
+        "company": "自営業",
+        "title": "研究/個人プロジェクト",
+        "years": "2016年2月-2016年6月",
+        "description": "この時点で、フルタイムのフロントエンドエンジニアになるために、少し時間を取って純粋なJavaScriptの詳細な調査に集中することにしました。 JavaScriptを習得した後、ReactJSを選択のフレームワークとして決定し、ReactJSおよびその他のフロントエンド/ Reactエコシステムテクノロジーを使用して、独自の小さなプロジェクトの構築を開始しました。"
+      },
+      {
+        "company": "EveryMatrix - ブカレスト",
+        "title": "ジュニア開発者/バグ修正者 ",
+        "years": "2015年1月-2016年2月",
+        "description": "同社の活動は、スポーツ賭博、オンラインカジノ、および支払い管理に関するさまざまなサービスを提供するiGaming業界を中心に展開しています。 これらのサービスには、ウェブサイトの構築と維持、賭け金決済のスポーツオッズ、オンラインカジノの顧客向けの新機能の実装が含まれます。 EveryMatrixでの勤務期間中、HTML5 / CSS3、Photoshop、および基本的なJavaScriptのコースで、EM Front-End Academyに参加し、卒業しました。 ジュニア開発者として、またレベル3のカスタマーサポートとして、私は両方の部門と非常に緊密に協力し、ウェブサイトのバグを特定して修正しました。"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "80%",
+        "logo": "html5-logo.png"
+      },
+      {
+        "name": "CSS3",
+        "level": "80%",
+        "logo": "css3-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "level": "65%",
+        "logo": "js-logo.png"
+      },
+      {
+        "name": "jQuery",
+        "level": "65%",
+        "logo": "jquery-logo.png"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%",
+        "logo": "reactjs-logo.png"
+      },
+      {
+        "name": "GatsbyJS",
+        "level": "70%",
+        "logo": "gatsbyjs-logo.png"
+      },
+      {
+        "name": "Contentful CMS / GraphQL",
+        "level": "70%",
+        "logo": "contentfulcms-logo.png"
+      },
+      {
+        "name": "Git",
+        "level": "80%",
+        "logo": "git-logo.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "portfolioMessage": "Check out my works",
+    "projects": [
+      {
+        "title": "Ferzy",
+        "category": "SEO tool for analyzing keywords.",
+        "image": "ferzy.png",
+        "url": "http://ferzy.com"
+      },
+      {
+        "title": "Auto Club Reviews",
+        "category": "Blog like app with a cloud CMS.",
+        "image": "auto-club-reviews.png",
+        "url": "http://autoclub.reviews"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The boss everybody desires and every boss wants to be!",
+        "user": "Valentin-Costel Hăloiu"
+      },
+      {
+        "text": "The boss I have always dreamed of!",
+        "user": "Valentin-Costel Hăloiu"
+      },
+      {
+        "text": "Now that Alin Sofianu is my boss, I have never felt happier!",
+        "user": "Valentin-Costel Hăloiu"
+      }
+    ]
+  }
+}

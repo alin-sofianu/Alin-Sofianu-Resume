@@ -1,11 +1,15 @@
 {
   "main": {
+    "iAm": "I'm",
+    "shortDescription": "I'm a Drăgășani based Front End Software Developer",
     "name": "Alin Sofianu",
     "occupation": "Front End Software Developer",
     "description": "Aimed to offer user-friendly experiences with a Web Environment found in a rapid change. The Web can be tricky to understand, so I want my colleagues and customers to benefit from it's full potential",
     "image": "profile-pic.png",
-    "bio": "I am an tinkerer at heart, with an entrepreneurial spirit, a knack for a healthy lifestyle, and a passion for coding. Self-motivated as being shown by the fact that I work in Software Development after attending a Marketing - Economic Studies college. Continuous Education, I enjoy training/learning new things, considering that the more you know the more value what your already know has. I am an even tempered person, never engaging in negative thinking.",
-    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "aboutMe": "About me",
+    "contactDetails": "Contact Details",
+    "bio": "I am a tinkerer at heart, with an entrepreneurial spirit, a knack for healthy living, and a passion for coding. Self-motivated as being shown by the fact that I work in Software Development after attending a Marketing - Economic Studies college. Continuous Education, I enjoy training/learning new things, considering that the more you know the more value what your already know gets. I am an even tempered person, never engaging in negative thinking.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, so you can give me a phone call, a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "alin.sofianu@gmail.com",
     "phone": "(+40) 0785 552 748",
     "address": {
@@ -43,18 +47,22 @@
         "url": "http://google.com",
         "className": "fa fa-skype"
       }
-    ]
+    ],
+    "addressAndphone": "Address and phone"
   },
   "resume": {
-    "skillmessage": "Development knowledge, including HTML5/CSS3, Javascript(ES6), ReactJS, Redux, Material-UI, GatsbyJS, Contentful CMS, GraphQL, Git, GitHub, GitLab.",
+    "workTitle": "Work",
+    "skillTitle": "Skills",
+    "educationTitle": "Education",
+    "skillmessage": "Development knowledge, including HTML5/CSS3, Javascript(ES6), ReactJS, Redux, Material-UI, GatsbyJS, Contentful CMS, GraphQL, Netlify, Heroku, Git, GitHub, GitLab.",
     "education": [
       {
         "school": "Academy of Economic Studies Bucharest",
-        "degree": "College / Bachelor's degree",
+        "degree": "College",
         "description": "After the admission exam I recived a performance scholarship. During my time in college, I studied economics and marketing, while running a small business in farming and selling pet fishes and aquariums. Also, I wrote english articles on various topics for www.afladespre.ro."
       },
       {
-        "school": "High School - National College Gib Mihăescu",
+        "school": "High School - National College Gib Mihaescu",
         "degree": "Programming / Mathematics",
         "description": " I obtained a Certificate on Computer Software, after an examination held in Creating Computer Software, Systems Databases Management and Operating Systems. Finished high-school with a 9,78/10 score at the Baccalaureate exam."
       }
@@ -87,36 +95,49 @@
     ],
     "skills": [
       {
-        "name": "CSS3",
-        "level": "80%"
+        "name": "HTML5",
+        "level": "80%",
+        "logo": "html5-logo.png"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "CSS3",
+        "level": "80%",
+        "logo": "css3-logo.png"
       },
       {
         "name": "JavaScript",
-        "level": "65%"
+        "level": "65%",
+        "logo": "js-logo.png"
+      },
+      {
+        "name": "jQuery",
+        "level": "65%",
+        "logo": "jquery-logo.png"
       },
       {
         "name": "ReactJs",
-        "level": "75%"
+        "level": "80%",
+        "logo": "reactjs-logo.png"
       },
       {
         "name": "GatsbyJS",
-        "level": "70%"
+        "level": "70%",
+        "logo": "gatsbyjs-logo.png"
       },
       {
         "name": "Contentful CMS / GraphQL",
-        "level": "70%"
+        "level": "70%",
+        "logo": "contentfulcms-logo.png"
       },
       {
-        "name": "Git / GitHub / GitLab",
-        "level": "80%"
+        "name": "Git",
+        "level": "80%",
+        "logo": "git-logo.png"
       }
     ]
   },
   "portfolio": {
+    "portfolioMessage": "Check out my works",
     "projects": [
       {
         "title": "Ferzy",

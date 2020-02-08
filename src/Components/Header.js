@@ -1,12 +1,16 @@
 import React, { Component } from "react";
+import Languages from "./Languages";
 
 class Header extends Component {
   render() {
+    var lang = this.props.lang;
     if (this.props.data) {
+      var iAm = this.props.data.iAm;
+      var shortDescription = this.props.data.shortDescription;
       var name = this.props.data.name;
-      var occupation = this.props.data.occupation;
+      //var occupation = this.props.data.occupation;
       var description = this.props.data.description;
-      var city = this.props.data.address.city;
+      //var city = this.props.data.address.city;
       var networks = this.props.data.social.map(function(network) {
         return (
           <li key={network.name}>
@@ -27,7 +31,6 @@ class Header extends Component {
           <a className="mobile-btn" href="#home" title="Hide navigation">
             Hide navigation
           </a>
-
           <ul id="nav" className="nav">
             <li className="current">
               <a className="smoothscroll" href="#home">
@@ -59,14 +62,22 @@ class Header extends Component {
                 Contact
               </a>
             </li>
+            <li className="current">
+              <Languages
+                lang={lang}
+                onChangeLanguage={this.props.onChangeLanguage}
+              />
+            </li>
           </ul>
         </nav>
 
         <div className="row banner">
           <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
+            <h1 className="responsive-headline">
+              {iAm} {name}.
+            </h1>
             <h3>
-              I'm a {city} based <span>{occupation}</span>. {description}.
+              <span>{shortDescription}</span>. {description}.
             </h3>
             <hr />
             <ul className="social">{networks}</ul>

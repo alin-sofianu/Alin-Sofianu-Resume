@@ -1,0 +1,172 @@
+{
+  "main": {
+    "iAm": "Sunt",
+    "shortDescription": "Front End Software Developer, locat in Drăgășani",
+    "name": "Alin Sofianu",
+    "occupation": "Front End Software Developer",
+    "description": "Ținta mea este sa ofer experiențe facile cu un Mediu Web aflat într-o continuă schimbare. Web-ul poate fi dificil de înțeles, așadar îmi doresc ca si colegii și clienții mei să beneficieze de potențialul sau maxim",
+    "image": "profile-pic.png",
+    "aboutMe": "Despre mine",
+    "contactDetails": "Detalii de contact",
+    "bio": "Sunt un reparator, cu un spirit antreprenorial, o inclinație spre sport si o viață sănătoasă și o pasiune pentru cod. Auto motivat, demonstrat de faptul că activez în Software Development, după ce am urmat un studii de Marketing. Imi place să invăt lucruri noi, să experimentez cu tehnologii de ultimă oră si sunt ferm convins că cu cât știi mai mult, cu atât mai mult valorează ceea ce știi deja. Sunt o persoană temperată, gândesc intotdeauna pozitiv.",
+    "contactmessage": "Ai un proiect pentru mine? Crezi că mă integrez in echipa ta? Trimite-mi un e-mail sau completează formularul de mai jos, sau mă poti contacta telefonic.",
+    "email": "alin.sofianu@gmail.com",
+    "phone": "(+40) 0785 552 748",
+    "address": {
+      "street": "Tudor Vladimirescu",
+      "city": "Drăgășani",
+      "state": "Romania",
+      "zip": "245700"
+    },
+    "website": "http://www.google.com",
+    "resumedownload": "http://google.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://google.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://google.com",
+        "className": "fa fa-google-plus"
+      },
+
+      {
+        "name": "instagram",
+        "url": "http://google.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://google.com",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://google.com",
+        "className": "fa fa-skype"
+      }
+    ],
+    "addressAndphone": "Adresa si telefon"
+  },
+  "resume": {
+    "workTitle": "Experienta",
+    "skillTitle": "Tehnologii",
+    "educationTitle": "Educatie",
+    "skillmessage": "Tehnologii Software Development, incluzand HTML5/CSS3, Javascript(ES6), ReactJS, Redux, Material-UI, GatsbyJS, Contentful CMS, GraphQL, Netlify, Heroku, Git, GitHub, GitLab.",
+    "education": [
+      {
+        "school": "Academia de Studii Economice Bucuresti",
+        "degree": "Facultate",
+        "description": "După examenul de admitere am primit o bursă de performanță. În timpul meu la facultate, am studiat științe economice și marketing, în timp ce conduceam o mică afacere în crestere și vânzare de pești de companie și acvarii. De asemenea, am scris articole în limba engleză pe diverse subiecte pentru www.afladespre.ro."
+      },
+      {
+        "school": "Liceu - Colegiul National Gib Mihăescu",
+        "degree": "Informatică / Matematică",
+        "description": " Am obținut un certificat de Software de calculator, după o examinare susținută în Crearea de programe informatice, Sisteme pentru gestionarea Bazelor de Bate și Sisteme de Operare. Am terminat liceul cu un nota 9,78 la examenul de bacalaureat."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Front-end Freelancer ",
+        "years": " - in prezent",
+        "description": "Freelance la www.upwork.com"
+      },
+      {
+        "company": "Ferzy",
+        "title": "Front-end developer ",
+        "years": "Aug 2016 - Ian 2018",
+        "description": "După ce am deprins suficient ReactJS pentru a începe să-mi aplic cunoștințele la un proiect real, am început să lucrez ca dezvoltator front-end la ferzy.com (un instrument SEO utilizat pentru analiza dificultății de keyword-uri). În timp ce am lucrat la acest proiect, am invatat mai multe instrumente și tehnologii utilizate într-o aplicație web modernă, cum ar fi: npm, Babel, Webpack, Redux, redux-saga, precum și Google Material Design."
+      },
+      {
+        "company": "Independent",
+        "title": "Studiu/Proiecte personale ",
+        "years": "Feb 2016 - Jun 2016",
+        "description": "În acest moment am decis să mă concentrez asupra JavaScript-ului în profunzime. Apoi, m-am decis asupra ReactJS ca si framework și am început să construiesc mici proiecte, cu ReactJS și alte tehnologii Front End."
+      },
+      {
+        "company": "EveryMatrix - Bucuresti",
+        "title": "Junior Developer/Bug fixer ",
+        "years": "Jan 2015 - Feb 2016",
+        "description": "Activitatea companiei se învârte în jurul industriei iGaming, oferind diverse servicii de pariuri sportive, cazinouri online și gestionare de plăți. Aceste servicii includ construirea și întreținerea site-urilor web, cote sportive si soluționarea pariurilor, și implementarea de noi funcții pentru clienții cazinourilor online. În timpul meu cu EveryMatrix, am participat și am absolvit Academia EM Front-End, cu cursuri pe HTML5 / CSS3, Photoshop și Vanilla JavaScript. Ca dezvoltator junior și ca asistent tehnic de nivel 3, am colaborat cu ambele departamente, identificând și reparând erori pe site-urile noastre."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "80%",
+        "logo": "html5-logo.png"
+      },
+      {
+        "name": "CSS3",
+        "level": "80%",
+        "logo": "css3-logo.png"
+      },
+      {
+        "name": "JavaScript",
+        "level": "65%",
+        "logo": "js-logo.png"
+      },
+      {
+        "name": "jQuery",
+        "level": "65%",
+        "logo": "jquery-logo.png"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%",
+        "logo": "reactjs-logo.png"
+      },
+      {
+        "name": "GatsbyJS",
+        "level": "70%",
+        "logo": "gatsbyjs-logo.png"
+      },
+      {
+        "name": "Contentful CMS / GraphQL",
+        "level": "70%",
+        "logo": "contentfulcms-logo.png"
+      },
+      {
+        "name": "Git",
+        "level": "80%",
+        "logo": "git-logo.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "portfolioMessage": "Proiecte personale",
+    "projects": [
+      {
+        "title": "Ferzy",
+        "category": "SEO tool for analyzing keywords.",
+        "image": "ferzy.png",
+        "url": "http://ferzy.com"
+      },
+      {
+        "title": "Auto Club Reviews",
+        "category": "Blog like app with a cloud CMS.",
+        "image": "auto-club-reviews.png",
+        "url": "http://autoclub.reviews"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The boss everybody desires and every boss wants to be!",
+        "user": "Valentin-Costel Hăloiu"
+      },
+      {
+        "text": "The boss I have always dreamed of!",
+        "user": "Valentin-Costel Hăloiu"
+      },
+      {
+        "text": "Now that Alin Sofianu is my boss, I have never felt happier!",
+        "user": "Valentin-Costel Hăloiu"
+      }
+    ]
+  }
+}

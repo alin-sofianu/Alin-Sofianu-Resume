@@ -4,6 +4,9 @@ class Resume extends Component {
   render() {
     if (this.props.data) {
       var skillmessage = this.props.data.skillmessage;
+      var workTitle = this.props.data.workTitle;
+      var skillTitle = this.props.data.skillTitle;
+      var educationTitle = this.props.data.educationTitle;
       var education = this.props.data.education.map(function(education) {
         return (
           <div key={education.school}>
@@ -32,8 +35,18 @@ class Resume extends Component {
         var className = "bar-expand " + skills.name.toLowerCase();
         return (
           <li key={skills.name}>
-            <span style={{ width: skills.level }} className={className}></span>
-            <em>{skills.name}</em>
+            <div style={{ display: "flex", alignItems: "center" }}>
+              <img
+                className="logo"
+                src={"images/tech-logos/" + skills.logo}
+                alt={skills.name}
+              />
+              <em>{skills.name}</em>
+              <span
+                style={{ width: skills.level }}
+                className={className}
+              ></span>
+            </div>
           </li>
         );
       });
@@ -44,7 +57,7 @@ class Resume extends Component {
         <div className="row work">
           <div className="three columns header-col">
             <h1>
-              <span>Work</span>
+              <span>{workTitle}</span>
             </h1>
           </div>
 
@@ -54,7 +67,7 @@ class Resume extends Component {
         <div className="row skill">
           <div className="three columns header-col">
             <h1>
-              <span>Skills</span>
+              <span>{skillTitle}</span>
             </h1>
           </div>
 
@@ -66,10 +79,11 @@ class Resume extends Component {
             </div>
           </div>
         </div>
+
         <div className="row education">
           <div className="three columns header-col">
             <h1>
-              <span>Education</span>
+              <span>{educationTitle}</span>
             </h1>
           </div>
 
