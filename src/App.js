@@ -124,7 +124,7 @@ class App extends Component {
         <About data={this.getDataByLang(this.state.lang).main} />
         <Resume data={this.getDataByLang(this.state.lang).resume} />
         <Portfolio data={this.getDataByLang(this.state.lang).portfolio} />
-        <Testimonials data={this.getDataByLang(this.state.lang).testimonials} />
+        {/* <Testimonials data={this.getDataByLang(this.state.lang).testimonials} /> */}
         <Contact data={this.getDataByLang(this.state.lang).main} />
         <Footer data={this.getDataByLang(this.state.lang).main} />
       </div>
