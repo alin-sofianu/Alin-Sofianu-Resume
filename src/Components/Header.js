@@ -86,7 +86,6 @@ class Header extends Component {
               <span>{shortDescription}</span>. {description}.
             </h3>
             <hr />
-            <ul className="social">{networks}</ul>
           </div>
         </div>
 
