@@ -1,29 +1,29 @@
-import React, { Component } from "react";
-import ReactGA from "react-ga";
-import $ from "jquery";
-import "./App.css";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import About from "./Components/About";
-import Resume from "./Components/Resume";
-import Contact from "./Components/Contact";
-import Testimonials from "./Components/Testimonials";
-import Portfolio from "./Components/Portfolio";
+import React, { Component } from 'react';
+import ReactGA from 'react-ga';
+import $ from 'jquery';
+import './App.css';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import About from './Components/About';
+import Resume from './Components/Resume';
+import Contact from './Components/Contact';
+import Testimonials from './Components/Testimonials';
+import Portfolio from './Components/Portfolio';
 
 class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      foo: "bar",
-      lang: "En",
+      foo: 'bar',
+      lang: 'En',
       resumeDataEn: {},
       resumeDataRo: {},
       resumeDataNo: {},
-      resumeDataJa: {}
+      resumeDataJa: {},
     };
     this.handleChangeLanguage = this.handleChangeLanguage.bind(this);
 
-    ReactGA.initialize("UA-110570651-1");
+    ReactGA.initialize('UA-110570651-1');
     ReactGA.pageview(window.location.pathname);
   }
 
@@ -33,61 +33,61 @@ class App extends Component {
 
   getResumeDataEn() {
     $.ajax({
-      url: "/resumeDataEn.json",
-      dataType: "json",
+      url: '/resumeDataEn.json',
+      dataType: 'json',
       cache: false,
-      success: function(data) {
+      success: function (data) {
         this.setState({ resumeDataEn: data });
       }.bind(this),
-      error: function(xhr, status, err) {
+      error: function (xhr, status, err) {
         console.log(err);
         alert(err);
-      }
+      },
     });
   }
 
   getResumeDataRo() {
     $.ajax({
-      url: "/resumeDataRo.json",
-      dataType: "json",
+      url: '/resumeDataRo.json',
+      dataType: 'json',
       cache: false,
-      success: function(data) {
+      success: function (data) {
         this.setState({ resumeDataRo: data });
       }.bind(this),
-      error: function(xhr, status, err) {
+      error: function (xhr, status, err) {
         console.log(err);
         alert(err);
-      }
+      },
     });
   }
 
   getResumeDataNo() {
     $.ajax({
-      url: "/resumeDataNo.json",
-      dataType: "json",
+      url: '/resumeDataNo.json',
+      dataType: 'json',
       cache: false,
-      success: function(data) {
+      success: function (data) {
         this.setState({ resumeDataNo: data });
       }.bind(this),
-      error: function(xhr, status, err) {
+      error: function (xhr, status, err) {
         console.log(err);
         alert(err);
-      }
+      },
     });
   }
 
   getResumeDataJa() {
     $.ajax({
-      url: "/resumeDataJa.json",
-      dataType: "json",
+      url: '/resumeDataJa.json',
+      dataType: 'json',
       cache: false,
-      success: function(data) {
+      success: function (data) {
         this.setState({ resumeDataJa: data });
       }.bind(this),
-      error: function(xhr, status, err) {
+      error: function (xhr, status, err) {
         console.log(err);
         alert(err);
-      }
+      },
     });
   }
 
@@ -100,13 +100,13 @@ class App extends Component {
 
   getDataByLang(param) {
     switch (param) {
-      case "En":
+      case 'En':
         return this.state.resumeDataEn;
-      case "Ro":
+      case 'Ro':
         return this.state.resumeDataRo;
-      case "No":
+      case 'No':
         return this.state.resumeDataNo;
-      case "Ja":
+      case 'Ja':
         return this.state.resumeDataJa;
       default:
         return null;
